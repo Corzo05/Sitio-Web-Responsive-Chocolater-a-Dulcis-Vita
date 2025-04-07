@@ -1,6 +1,6 @@
 # Spanish
 
-### Para utilizar solo es clonar repsitorio de GitHub o descargar .zip y abrir en la carpeta del proyecto el archivo "index.html".
+### Para utilizar solo es clonar repositorio de GitHub o descargar .zip y abrir en la carpeta del proyecto el archivo "index.html".
 
 # English
 
