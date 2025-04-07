@@ -46,17 +46,17 @@ document.addEventListener("scroll", handleScroll);
 const galeria = document.querySelector('.galeria');
 
 if (galeria) {
-    galeria.style.backgroundImage = "url('../public/img/fondo1.jpg')";
+    galeria.style.backgroundImage = "url('../img/fondo1.jpg')";
 
     const images = [
-        '../public/img/fondo1.jpg',
-        '../public/img/fondo2.jpg',
-        '../public/img/fondo3.jpg',
-        '../public/img/fondo4.jpg',
-        '../public/img/fondo5.jpg',
-        '../public/img/fondo6.jpg',
-        '../public/img/fondo7.jpg',
-        '../public/img/fondo8.jpg'
+        '../img/fondo1.jpg',
+        '../img/fondo2.jpg',
+        '../img/fondo3.jpg',
+        '../img/fondo4.jpg',
+        '../img/fondo5.jpg',
+        '../img/fondo6.jpg',
+        '../img/fondo7.jpg',
+        '../img/fondo8.jpg'
     ];
 
     let currentIndex = 0;
@@ -105,12 +105,12 @@ if (galeria) {
 const landing = document.querySelector('.landing');
 
 if(landing){
-    landing.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../public/img/fondo1.jpg')";
+    landing.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../img/fondo1.jpg')";
     
     const images = [
-        '../public/img/fondo1.jpg',
-        '../public/img/fondo2.jpg',
-        '../public/img/fondo3.jpg'
+        '../img/fondo1.jpg',
+        '../img/fondo2.jpg',
+        '../img/fondo3.jpg'
     ];
     
     let currentIndex = 0;
